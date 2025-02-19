@@ -1,0 +1,12 @@
+C:\Users\Hiiiiiiiiii\Downloads\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\Hiiiiiiiiii\Downloads\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\Hiiiiiiiiii\Downloads\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\Hiiiiiiiiii\Downloads\Demo\Demo\obj\Debug\0306231316_DoMinhNhat.csproj.AssemblyReference.cache
+C:\Users\Hiiiiiiiiii\Downloads\Demo\Demo\obj\Debug\Demo.Frm1.resources
+C:\Users\Hiiiiiiiiii\Downloads\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\Hiiiiiiiiii\Downloads\Demo\Demo\obj\Debug\0306231316_DoMinhNhat.csproj.GenerateResource.cache
+C:\Users\Hiiiiiiiiii\Downloads\Demo\Demo\obj\Debug\0306231316_DoMinhNhat.csproj.CoreCompileInputs.cache
+C:\Users\Hiiiiiiiiii\Downloads\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\Hiiiiiiiiii\Downloads\Demo\Demo\obj\Debug\Demo.pdb
+C:\Users\Hiiiiiiiiii\Downloads\Demo\Demo\obj\Debug\Demo.facebook.resources
+C:\Users\Hiiiiiiiiii\Downloads\Demo\Demo\obj\Debug\Demo.login.resources

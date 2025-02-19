@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "0306231316_DoMinhNhat_Bai15/1.0.0": {
+        "runtime": {
+          "0306231316_DoMinhNhat_Bai15.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "0306231316_DoMinhNhat_Bai15/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

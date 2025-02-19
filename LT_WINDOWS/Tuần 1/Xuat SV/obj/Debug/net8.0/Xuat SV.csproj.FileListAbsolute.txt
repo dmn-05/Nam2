@@ -1,0 +1,14 @@
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1\Xuat SV\obj\Debug\net8.0\Xuat SV.GeneratedMSBuildEditorConfig.editorconfig
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1\Xuat SV\obj\Debug\net8.0\Xuat SV.AssemblyInfoInputs.cache
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1\Xuat SV\obj\Debug\net8.0\Xuat SV.AssemblyInfo.cs
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1\Xuat SV\obj\Debug\net8.0\Xuat SV.csproj.CoreCompileInputs.cache
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1\Xuat SV\bin\Debug\net8.0\Xuat SV.exe
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1\Xuat SV\bin\Debug\net8.0\Xuat SV.deps.json
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1\Xuat SV\bin\Debug\net8.0\Xuat SV.runtimeconfig.json
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1\Xuat SV\bin\Debug\net8.0\Xuat SV.dll
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1\Xuat SV\bin\Debug\net8.0\Xuat SV.pdb
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1\Xuat SV\obj\Debug\net8.0\Xuat SV.dll
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1\Xuat SV\obj\Debug\net8.0\refint\Xuat SV.dll
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1\Xuat SV\obj\Debug\net8.0\Xuat SV.pdb
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1\Xuat SV\obj\Debug\net8.0\Xuat SV.genruntimeconfig.cache
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1\Xuat SV\obj\Debug\net8.0\ref\Xuat SV.dll

@@ -1,0 +1,14 @@
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1_LT1\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1\bin\Debug\net8.0\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1.exe
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1_LT1\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1\bin\Debug\net8.0\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1.deps.json
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1_LT1\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1\bin\Debug\net8.0\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1.runtimeconfig.json
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1_LT1\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1\bin\Debug\net8.0\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1.dll
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1_LT1\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1\bin\Debug\net8.0\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1.pdb
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1_LT1\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1\obj\Debug\net8.0\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1.GeneratedMSBuildEditorConfig.editorconfig
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1_LT1\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1\obj\Debug\net8.0\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1.AssemblyInfoInputs.cache
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1_LT1\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1\obj\Debug\net8.0\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1.AssemblyInfo.cs
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1_LT1\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1\obj\Debug\net8.0\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1.csproj.CoreCompileInputs.cache
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1_LT1\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1\obj\Debug\net8.0\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1.dll
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1_LT1\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1\obj\Debug\net8.0\refint\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1.dll
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1_LT1\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1\obj\Debug\net8.0\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1.pdb
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1_LT1\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1\obj\Debug\net8.0\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1.genruntimeconfig.cache
+E:\0306231316\NAM 2\LT WINDOWS\Tuần 1_LT1\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1\obj\Debug\net8.0\ref\0306231316_Đỗ Minh Nhật_0306231335_Đỗ Ngọc Thế_Bai1.dll
