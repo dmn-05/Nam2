@@ -1,0 +1,6 @@
+﻿  HCNhat.cpp
+  HVuong.cpp
+  main.cpp
+G:\0306231316\NAM 2\LT HDT\Tuần 10\Bài 1\main.cpp(6,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Bài 1.vcxproj -> G:\0306231316\NAM 2\LT HDT\Tuần 10\Bài 1\x64\Debug\Bài 1.exe

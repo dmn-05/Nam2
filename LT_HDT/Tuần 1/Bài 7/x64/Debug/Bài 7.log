@@ -1,0 +1,4 @@
+﻿  bt7.cpp
+E:\0306231316\NAM 2\LT HDT\Tuần 1\Bài 7\bt7.cpp(13,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\0306231316\NAM 2\LT HDT\Tuần 1\Bài 7\bt7.cpp(19,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Bài 7.vcxproj -> E:\0306231316\NAM 2\LT HDT\Tuần 1\x64\Debug\Bài 7.exe
