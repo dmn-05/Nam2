@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC66382-EC0D-45B3-A3B4-0A64F1E297E3}|QLSV\\QLSV.vcxproj|G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\QLSV\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BC66382-EC0D-45B3-A3B4-0A64F1E297E3}|QLSV\\QLSV.vcxproj|solutionrelative:QLSV\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC66382-EC0D-45B3-A3B4-0A64F1E297E3}|QLSV\\QLSV.vcxproj|G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\QLSV\\hs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BC66382-EC0D-45B3-A3B4-0A64F1E297E3}|QLSV\\QLSV.vcxproj|solutionrelative:QLSV\\hs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC66382-EC0D-45B3-A3B4-0A64F1E297E3}|QLSV\\QLSV.vcxproj|G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\QLSV\\hs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BC66382-EC0D-45B3-A3B4-0A64F1E297E3}|QLSV\\QLSV.vcxproj|solutionrelative:QLSV\\hs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC66382-EC0D-45B3-A3B4-0A64F1E297E3}|QLSV\\QLSV.vcxproj|G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\QLSV\\gv.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BC66382-EC0D-45B3-A3B4-0A64F1E297E3}|QLSV\\QLSV.vcxproj|solutionrelative:QLSV\\gv.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC66382-EC0D-45B3-A3B4-0A64F1E297E3}|QLSV\\QLSV.vcxproj|G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\QLSV\\gv.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BC66382-EC0D-45B3-A3B4-0A64F1E297E3}|QLSV\\QLSV.vcxproj|solutionrelative:QLSV\\gv.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC66382-EC0D-45B3-A3B4-0A64F1E297E3}|QLSV\\QLSV.vcxproj|G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\QLSV\\nguoi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BC66382-EC0D-45B3-A3B4-0A64F1E297E3}|QLSV\\QLSV.vcxproj|solutionrelative:QLSV\\nguoi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC66382-EC0D-45B3-A3B4-0A64F1E297E3}|QLSV\\QLSV.vcxproj|G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\QLSV\\truong.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BC66382-EC0D-45B3-A3B4-0A64F1E297E3}|QLSV\\QLSV.vcxproj|solutionrelative:QLSV\\truong.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC66382-EC0D-45B3-A3B4-0A64F1E297E3}|QLSV\\QLSV.vcxproj|G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\QLSV\\truong.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BC66382-EC0D-45B3-A3B4-0A64F1E297E3}|QLSV\\QLSV.vcxproj|solutionrelative:QLSV\\truong.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC66382-EC0D-45B3-A3B4-0A64F1E297E3}|QLSV\\QLSV.vcxproj|G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\QLSV\\nguoi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BC66382-EC0D-45B3-A3B4-0A64F1E297E3}|QLSV\\QLSV.vcxproj|solutionrelative:QLSV\\nguoi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "truong.h",
+              "DocumentMoniker": "G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\QLSV\\truong.h",
+              "RelativeDocumentMoniker": "QLSV\\truong.h",
+              "ToolTip": "G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\QLSV\\truong.h",
+              "RelativeToolTip": "QLSV\\truong.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-15T06:48:43.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "truong.cpp",
+              "DocumentMoniker": "G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\QLSV\\truong.cpp",
+              "RelativeDocumentMoniker": "QLSV\\truong.cpp",
+              "ToolTip": "G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\QLSV\\truong.cpp",
+              "RelativeToolTip": "QLSV\\truong.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T06:48:30.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\QLSV\\main.cpp",
+              "RelativeDocumentMoniker": "QLSV\\main.cpp",
+              "ToolTip": "G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\QLSV\\main.cpp",
+              "RelativeToolTip": "QLSV\\main.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwBYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T06:04:14.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hs.h",
+              "DocumentMoniker": "G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\QLSV\\hs.h",
+              "RelativeDocumentMoniker": "QLSV\\hs.h",
+              "ToolTip": "G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\QLSV\\hs.h",
+              "RelativeToolTip": "QLSV\\hs.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-15T05:41:33.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hs.cpp",
+              "DocumentMoniker": "G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\QLSV\\hs.cpp",
+              "RelativeDocumentMoniker": "QLSV\\hs.cpp",
+              "ToolTip": "G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\QLSV\\hs.cpp",
+              "RelativeToolTip": "QLSV\\hs.cpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T05:41:28.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "gv.cpp",
+              "DocumentMoniker": "G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\QLSV\\gv.cpp",
+              "RelativeDocumentMoniker": "QLSV\\gv.cpp",
+              "ToolTip": "G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\QLSV\\gv.cpp",
+              "RelativeToolTip": "QLSV\\gv.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T05:40:58.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "gv.h",
+              "DocumentMoniker": "G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\QLSV\\gv.h",
+              "RelativeDocumentMoniker": "QLSV\\gv.h",
+              "ToolTip": "G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\QLSV\\gv.h",
+              "RelativeToolTip": "QLSV\\gv.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-15T05:41:10.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "nguoi.h",
+              "DocumentMoniker": "G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\QLSV\\nguoi.h",
+              "RelativeDocumentMoniker": "QLSV\\nguoi.h",
+              "ToolTip": "G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\QLSV\\nguoi.h",
+              "RelativeToolTip": "QLSV\\nguoi.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-15T05:40:48.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "nguoi.cpp",
+              "DocumentMoniker": "G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\QLSV\\nguoi.cpp",
+              "RelativeDocumentMoniker": "QLSV\\nguoi.cpp",
+              "ToolTip": "G:\\0306231316\\NAM 2\\LT HDT\\Tu\u1EA7n 12\\QLSV\\nguoi.cpp",
+              "RelativeToolTip": "QLSV\\nguoi.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T05:40:39.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

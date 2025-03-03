@@ -1,0 +1,14 @@
+﻿  0306231316_Buoi2_2.cpp
+G:\0306231316\NAM 2\LT HDT\Tuần 2\Bài 2\0306231316_Buoi2_2.cpp(19,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+G:\0306231316\NAM 2\LT HDT\Tuần 2\Bài 2\0306231316_Buoi2_2.cpp(27,7): error C2371: 'a': redefinition; different basic types
+G:\0306231316\NAM 2\LT HDT\Tuần 2\Bài 2\0306231316_Buoi2_2.cpp(27,10): error C2371: 'b': redefinition; different basic types
+G:\0306231316\NAM 2\LT HDT\Tuần 2\Bài 2\0306231316_Buoi2_2.cpp(30,30): error C2088: built-in operator '<<' cannot be applied to an operand of type 'std::basic_ostream<char,std::char_traits<char>>'
+G:\0306231316\NAM 2\LT HDT\Tuần 2\Bài 2\0306231316_Buoi2_2.cpp(32,28): error C2088: built-in operator '<<' cannot be applied to an operand of type 'std::basic_ostream<char,std::char_traits<char>>'
+G:\0306231316\NAM 2\LT HDT\Tuần 2\Bài 2\0306231316_Buoi2_2.cpp(34,8): error C2371: 'a': redefinition; different basic types
+G:\0306231316\NAM 2\LT HDT\Tuần 2\Bài 2\0306231316_Buoi2_2.cpp(34,11): error C2371: 'b': redefinition; different basic types
+G:\0306231316\NAM 2\LT HDT\Tuần 2\Bài 2\0306231316_Buoi2_2.cpp(37,30): error C2088: built-in operator '<<' cannot be applied to an operand of type 'std::basic_ostream<char,std::char_traits<char>>'
+G:\0306231316\NAM 2\LT HDT\Tuần 2\Bài 2\0306231316_Buoi2_2.cpp(39,28): error C2088: built-in operator '<<' cannot be applied to an operand of type 'std::basic_ostream<char,std::char_traits<char>>'
+G:\0306231316\NAM 2\LT HDT\Tuần 2\Bài 2\0306231316_Buoi2_2.cpp(41,9): error C2371: 'a': redefinition; different basic types
+G:\0306231316\NAM 2\LT HDT\Tuần 2\Bài 2\0306231316_Buoi2_2.cpp(41,12): error C2371: 'b': redefinition; different basic types
+G:\0306231316\NAM 2\LT HDT\Tuần 2\Bài 2\0306231316_Buoi2_2.cpp(44,30): error C2088: built-in operator '<<' cannot be applied to an operand of type 'std::basic_ostream<char,std::char_traits<char>>'
+G:\0306231316\NAM 2\LT HDT\Tuần 2\Bài 2\0306231316_Buoi2_2.cpp(46,28): error C2088: built-in operator '<<' cannot be applied to an operand of type 'std::basic_ostream<char,std::char_traits<char>>'
