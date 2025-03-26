@@ -76,3 +76,79 @@ add foreign key(masp) references sanpham(masp)
 --
 alter table sanpham
 add foreign key(mancc) references nhacungcap(mancc)
+
+insert into nhanvien(MaNV,
+	HoNV,
+	TenNV,
+	GioiTinh,
+	NgaySinh,
+	DiaChi,
+	Phone)
+values(2, 'Do', 'Nhat', 'Nam', '2020-10-10', 'TB', '01234556789')
+
+insert into KhachHang(
+MaKh,
+TenKh,
+DiaChi,	
+Phone,	
+SoFax,
+DCMail)
+values(1,'The', 'BT', '0123456789', '789654123', 'the@gmail.com')
+
+insert into HoaDon(
+MaHD,
+NgayLapHD,
+MaNV,
+NoiChuyen,
+MaKh,
+LoaiHD
+)
+values (1, '2020-07-10', 2, 'haha', 1, 'A')
+
+insert into NhaCungCap(
+MaNCC,
+TenNcc,
+Diachi,	
+Phone,
+SoFax,
+DCMail
+)
+values(1, '', '', '', '', '')
+
+insert into SanPham(
+MaSp,
+TenSp,
+MoTa,	
+Donvitinh,
+SoLuong,	
+DonGia,
+mancc
+)
+values (1, 'Banh', 'banh ne', 'Cái', 10, 10000,1)
+insert into SanPham(
+MaSp,
+TenSp,
+MoTa,	
+Donvitinh,
+SoLuong,	
+DonGia,
+mancc
+)
+values (2, 'Keo', 'keo ne', 'Cái', 10, 8000, 1)
+
+insert into CT_HoaDon(
+MaHD,
+MaSp,
+SoLuong,
+DonGia,	
+ChietKhau
+)
+values(1,1,10,100000, 50000)
+insert into CT_HoaDon(
+MaHD,
+MaSp,
+SoLuong,
+DonGia,	
+ChietKhau
+)
+values(1,2,10,100000,50000)
