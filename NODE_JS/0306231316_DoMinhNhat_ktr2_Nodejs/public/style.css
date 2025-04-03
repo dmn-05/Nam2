@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+h1 {
+    color: #333;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+ul li {
+    display: inline;
+    margin: 10px;
+}
+a {
+    text-decoration: none;
+    color: violet;
+}
+a:hover {
+    color: red;
+}
+img {
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+}
+.red{
+    color: #f00;
+}
